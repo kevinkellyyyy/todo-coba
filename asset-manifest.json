@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todo-coba/static/css/main.6924f5ca.chunk.css",
+    "main.js": "/todo-coba/static/js/main.3e82d054.chunk.js",
+    "main.js.map": "/todo-coba/static/js/main.3e82d054.chunk.js.map",
+    "runtime-main.js": "/todo-coba/static/js/runtime-main.e5e183f7.js",
+    "runtime-main.js.map": "/todo-coba/static/js/runtime-main.e5e183f7.js.map",
+    "static/js/2.b5763d74.chunk.js": "/todo-coba/static/js/2.b5763d74.chunk.js",
+    "static/js/2.b5763d74.chunk.js.map": "/todo-coba/static/js/2.b5763d74.chunk.js.map",
+    "index.html": "/todo-coba/index.html",
+    "precache-manifest.ee6d2a551a8ae46dea2b1c568e84632f.js": "/todo-coba/precache-manifest.ee6d2a551a8ae46dea2b1c568e84632f.js",
+    "service-worker.js": "/todo-coba/service-worker.js",
+    "static/css/main.6924f5ca.chunk.css.map": "/todo-coba/static/css/main.6924f5ca.chunk.css.map",
+    "static/js/2.b5763d74.chunk.js.LICENSE.txt": "/todo-coba/static/js/2.b5763d74.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/todo-coba/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5e183f7.js",
+    "static/js/2.b5763d74.chunk.js",
+    "static/css/main.6924f5ca.chunk.css",
+    "static/js/main.3e82d054.chunk.js"
+  ]
+}
